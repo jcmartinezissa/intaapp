@@ -46,7 +46,7 @@ const Page = () => {
         <div className="flex flex-col shadow-sm shadow-gray-400 m-2 p-5">
           <div className="inline-flex">
             <h2 className="font-semibold text-blue-900 mx-1">Proyecto: </h2>{" "}
-            <p> INTA APP : 2024</p>
+            <p> PATRI APP : 2024</p>
           </div>
           <div className="inline-flex">
             <h2 className="font-semibold text-blue-900 mx-1">Version: </h2>{" "}
